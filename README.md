@@ -8,6 +8,12 @@ database falling over.
 Built as a solo project. Think of it as an ETL pipeline with a UI on top: **import → dedupe → enrich →
 filter/segment → export.**
 
+> 📐 **[architecture/](./architecture)** — pipeline and data-layer diagrams (render on GitHub).
+> 💻 **[sanitized-code/](./sanitized-code)** — real extracts: the enrichment worker (advisory lock,
+> keyset pagination, rate limiting) and the batched two-level import dedup.
+> This is a **case-study repository** — the production source is private (real client data); what's public
+> is the architecture, the reasoning, and sanitized code.
+
 ---
 
 ## The problem it solves
