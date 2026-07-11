@@ -104,5 +104,5 @@ looks like.
 
 ---
 
-*Built by Rustem Idiatullin. Data engineering — import, enrich, filter, export at volume. Relocating to
+*Built by Rustem Idiiatullin. Data engineering — import, enrich, filter, export at volume. Relocating to
 Australia or New Zealand.*
