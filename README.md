@@ -105,4 +105,4 @@ looks like.
 ---
 
 *Built by Rustem Idiiatullin. Data engineering — import, enrich, filter, export at volume. Relocating to
-Australia or New Zealand.*
+Auckland, New Zealand.*
